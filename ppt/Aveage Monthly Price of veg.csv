@@ -1,0 +1,590 @@
+Months (Date),Vegetable,Agra,Delhi,Noida
+Jan,Amaranth Leaves,14,14,13
+Jan,Amla,79,77,72
+Jan,Ash gourd,31,30,29
+Jan,Baby Corn,79,80,77
+Jan,Banana Flower,19,18,20
+Jan,Beetroot,40,41,40
+Jan,Bitter Gourd,38,35,36
+Jan,Bottle Gourd,32,33,33
+Jan,Brinjal,28,30,29
+Jan,Brinjal (Big),31,30,30
+Jan,Broad Beans,44,44,43
+Jan,Butter Beans,86,80,83
+Jan,Cabbage,30,30,32
+Jan,Capsicum,55,56,51
+Jan,Carrot,42,42,39
+Jan,Cauliflower,31,31,32
+Jan,Cluster beans,50,52,52
+Jan,Coconut,36,35,35
+Jan,Colocasia,29,31,30
+Jan,Colocasia Leaves,17,15,15
+Jan,Coriander Leaves,8,9,7
+Jan,Corn,35,34,35
+Jan,Cucumber,31,29,29
+Jan,Curry Leaves,35,33,34
+Jan,Dill Leaves,16,15,14
+Jan,Drumsticks,134,138,126
+Jan,Elephant Yam,35,34,33
+Jan,Fenugreek Leaves,12,11,13
+Jan,French Beans,43,41,39
+Jan,Garlic,45,47,44
+Jan,Ginger,50,50,48
+Jan,Green Chilli,44,44,43
+Jan,Green Peas,99,96,98
+Jan,Ivy Gourd,31,30,29
+Jan,Ladies Finger,39,38,37
+Jan,Lemon (Lime),65,62,65
+Jan,Mango Raw,111,114,110
+Jan,Mint Leaves,6,6,6
+Jan,Mushroom,101,104,101
+Jan,Mustard Leaves,18,17,19
+Jan,Onion Big,32,32,32
+Jan,Onion Green,49,46,51
+Jan,Onion Small,41,44,42
+Jan,Potato,37,36,35
+Jan,Pumpkin,33,32,32
+Jan,Radish,29,31,31
+Jan,Raw Banana (Plantain),10,10,9
+Jan,Ridge Gourd,34,34,33
+Jan,Shallot (Pearl Onion),40,39,38
+Jan,Snake Gourd,36,35,34
+Jan,Sorrel Leaves,16,13,15
+Jan,Spinach,15,15,15
+Jan,Sweet Potato,47,46,45
+Jan,Tomato,28,29,26
+Feb,Amaranth Leaves,17,16,17
+Feb,Amla,78,73,71
+Feb,Ash gourd,30,30,29
+Feb,Baby Corn,71,73,74
+Feb,Banana Flower,21,20,20
+Feb,Beetroot,51,50,51
+Feb,Bitter Gourd,39,38,39
+Feb,Bottle Gourd,32,33,33
+Feb,Brinjal,31,32,33
+Feb,Brinjal (Big),53,52,53
+Feb,Broad Beans,50,48,48
+Feb,Butter Beans,65,64,65
+Feb,Cabbage,29,29,29
+Feb,Capsicum,53,51,54
+Feb,Carrot,62,61,62
+Feb,Cauliflower,41,39,41
+Feb,Cluster beans,53,52,52
+Feb,Coconut,40,38,39
+Feb,Colocasia,31,31,31
+Feb,Colocasia Leaves,15,15,15
+Feb,Coriander Leaves,10,9,9
+Feb,Corn,36,36,37
+Feb,Cucumber,22,22,22
+Feb,Curry Leaves,40,41,41
+Feb,Dill Leaves,19,17,17
+Feb,Drumsticks,155,154,151
+Feb,Elephant Yam,34,34,31
+Feb,Fenugreek Leaves,15,13,14
+Feb,French Beans,45,43,45
+Feb,Garlic,70,69,71
+Feb,Ginger,50,49,50
+Feb,Green Chilli,55,55,54
+Feb,Green Peas,80,79,77
+Feb,Ivy Gourd,35,34,35
+Feb,Ladies Finger,61,60,60
+Feb,Lemon (Lime),55,55,56
+Feb,Mango Raw,104,104,105
+Feb,Mint Leaves,8,7,7
+Feb,Mushroom,98,99,99
+Feb,Mustard Leaves,21,20,20
+Feb,Onion Big,37,37,36
+Feb,Onion Green,46,48,48
+Feb,Onion Small,62,64,66
+Feb,Potato,34,35,34
+Feb,Pumpkin,28,27,28
+Feb,Radish,28,31,32
+Feb,Raw Banana (Plantain),10,9,9
+Feb,Ridge Gourd,44,36,36
+Feb,Shallot (Pearl Onion),41,39,39
+Feb,Snake Gourd,35,35,35
+Feb,Sorrel Leaves,16,15,14
+Feb,Spinach,16,16,16
+Feb,Sweet Potato,48,48,47
+Feb,Tomato,27,26,26
+Mar,Amaranth Leaves,18,17,17
+Mar,Amla,76,72,71
+Mar,Ash gourd,25,26,26
+Mar,Baby Corn,64,66,66
+Mar,Banana Flower,22,20,20
+Mar,Beetroot,34,33,35
+Mar,Bitter Gourd,35,34,34
+Mar,Bottle Gourd,30,28,30
+Mar,Brinjal,30,30,29
+Mar,Brinjal (Big),40,39,40
+Mar,Broad Beans,43,42,44
+Mar,Butter Beans,58,58,56
+Mar,Cabbage,22,21,22
+Mar,Capsicum,48,47,48
+Mar,Carrot,40,37,42
+Mar,Cauliflower,31,30,30
+Mar,Cluster beans,46,46,47
+Mar,Coconut,31,31,31
+Mar,Colocasia,31,30,30
+Mar,Colocasia Leaves,17,15,15
+Mar,Coriander Leaves,9,9,9
+Mar,Corn,33,32,33
+Mar,Cucumber,24,24,23
+Mar,Curry Leaves,41,40,40
+Mar,Dill Leaves,16,16,16
+Mar,Drumsticks,139,133,139
+Mar,Elephant Yam,34,33,32
+Mar,Fenugreek Leaves,13,13,13
+Mar,French Beans,40,40,41
+Mar,Garlic,71,70,71
+Mar,Ginger,49,51,49
+Mar,Green Chilli,50,49,49
+Mar,Green Peas,79,77,79
+Mar,Ivy Gourd,34,34,34
+Mar,Ladies Finger,45,42,44
+Mar,Lemon (Lime),57,55,54
+Mar,Mango Raw,99,101,100
+Mar,Mint Leaves,8,7,7
+Mar,Mushroom,99,98,98
+Mar,Mustard Leaves,21,20,19
+Mar,Onion Big,33,31,32
+Mar,Onion Green,49,50,49
+Mar,Onion Small,53,52,55
+Mar,Potato,31,32,31
+Mar,Pumpkin,28,27,26
+Mar,Radish,26,26,27
+Mar,Raw Banana (Plantain),9,9,10
+Mar,Ridge Gourd,33,34,33
+Mar,Shallot (Pearl Onion),40,39,40
+Mar,Snake Gourd,28,28,28
+Mar,Sorrel Leaves,14,15,15
+Mar,Spinach,15,15,15
+Mar,Sweet Potato,47,47,48
+Mar,Tomato,27,26,26
+Apr,Amaranth Leaves,19,18,18
+Apr,Amla,73,69,64
+Apr,Ash gourd,24,22,23
+Apr,Baby Corn,54,54,57
+Apr,Banana Flower,22,21,23
+Apr,Beetroot,28,28,29
+Apr,Bitter Gourd,31,33,33
+Apr,Bottle Gourd,24,24,24
+Apr,Brinjal,29,31,30
+Apr,Brinjal (Big),31,30,30
+Apr,Broad Beans,34,33,30
+Apr,Butter Beans,54,50,51
+Apr,Cabbage,26,23,25
+Apr,Capsicum,41,39,40
+Apr,Carrot,35,33,33
+Apr,Cauliflower,30,29,28
+Apr,Cluster beans,42,41,40
+Apr,Coconut,26,26,26
+Apr,Colocasia,31,31,29
+Apr,Colocasia Leaves,17,16,16
+Apr,Coriander Leaves,12,11,12
+Apr,Corn,33,33,31
+Apr,Cucumber,17,17,17
+Apr,Curry Leaves,46,48,47
+Apr,Dill Leaves,17,17,16
+Apr,Drumsticks,62,59,57
+Apr,Elephant Yam,36,35,33
+Apr,Fenugreek Leaves,14,15,16
+Apr,French Beans,34,34,33
+Apr,Garlic,76,77,77
+Apr,Ginger,47,47,48
+Apr,Green Chilli,49,50,47
+Apr,Green Peas,59,56,56
+Apr,Ivy Gourd,36,36,37
+Apr,Ladies Finger,25,26,24
+Apr,Lemon (Lime),46,44,45
+Apr,Mango Raw,57,50,59
+Apr,Mint Leaves,8,7,7
+Apr,Mushroom,99,100,99
+Apr,Mustard Leaves,21,20,22
+Apr,Onion Big,26,25,26
+Apr,Onion Green,49,49,49
+Apr,Onion Small,34,33,36
+Apr,Potato,29,29,28
+Apr,Pumpkin,28,29,29
+Apr,Radish,25,25,24
+Apr,Raw Banana (Plantain),9,8,9
+Apr,Ridge Gourd,31,31,33
+Apr,Shallot (Pearl Onion),40,38,39
+Apr,Snake Gourd,24,24,23
+Apr,Sorrel Leaves,13,14,14
+Apr,Spinach,14,15,16
+Apr,Sweet Potato,47,47,51
+Apr,Tomato,26,33,23
+May,Amaranth Leaves,17,18,18
+May,Amla,77,75,76
+May,Ash gourd,24,22,23
+May,Baby Corn,61,62,55
+May,Banana Flower,22,22,23
+May,Beetroot,38,39,37
+May,Bitter Gourd,37,38,39
+May,Bottle Gourd,26,27,27
+May,Brinjal,31,32,31
+May,Brinjal (Big),28,29,28
+May,Broad Beans,45,46,43
+May,Butter Beans,75,81,70
+May,Cabbage,22,20,21
+May,Capsicum,39,41,39
+May,Carrot,40,39,39
+May,Cauliflower,29,29,28
+May,Cluster beans,40,40,42
+May,Coconut,21,21,22
+May,Colocasia,31,31,30
+May,Colocasia Leaves,16,15,16
+May,Coriander Leaves,11,12,12
+May,Corn,30,29,30
+May,Cucumber,18,17,17
+May,Curry Leaves,47,50,50
+May,Dill Leaves,15,16,15
+May,Drumsticks,58,55,51
+May,Elephant Yam,32,34,33
+May,Fenugreek Leaves,15,14,14
+May,French Beans,64,70,60
+May,Garlic,94,99,89
+May,Ginger,46,48,47
+May,Green Chilli,43,43,44
+May,Green Peas,77,83,75
+May,Ivy Gourd,33,32,32
+May,Ladies Finger,34,37,33
+May,Lemon (Lime),129,134,125
+May,Mango Raw,29,29,29
+May,Mint Leaves,6,7,7
+May,Mushroom,96,95,98
+May,Mustard Leaves,20,19,21
+May,Onion Big,24,22,24
+May,Onion Green,48,47,48
+May,Onion Small,33,33,33
+May,Potato,30,31,31
+May,Pumpkin,28,29,28
+May,Radish,28,28,26
+May,Raw Banana (Plantain),9,8,8
+May,Ridge Gourd,31,30,33
+May,Shallot (Pearl Onion),41,41,40
+May,Snake Gourd,25,24,23
+May,Sorrel Leaves,14,13,13
+May,Spinach,14,14,15
+May,Sweet Potato,49,49,49
+May,Tomato,74,73,72
+Jun,Amaranth Leaves,13,12,13
+Jun,Amla,72,62,67
+Jun,Ash gourd,23,22,22
+Jun,Baby Corn,65,65,69
+Jun,Banana Flower,21,19,20
+Jun,Beetroot,45,45,44
+Jun,Bitter Gourd,42,42,42
+Jun,Bottle Gourd,29,30,30
+Jun,Brinjal,35,36,35
+Jun,Brinjal (Big),32,34,32
+Jun,Broad Beans,56,56,58
+Jun,Butter Beans,99,96,96
+Jun,Cabbage,27,28,26
+Jun,Capsicum,40,40,40
+Jun,Carrot,52,50,51
+Jun,Cauliflower,32,32,29
+Jun,Cluster beans,43,44,41
+Jun,Coconut,37,39,35
+Jun,Colocasia,30,31,30
+Jun,Colocasia Leaves,15,15,16
+Jun,Coriander Leaves,12,12,11
+Jun,Corn,30,30,28
+Jun,Cucumber,21,22,20
+Jun,Curry Leaves,40,40,41
+Jun,Dill Leaves,15,15,15
+Jun,Drumsticks,66,61,63
+Jun,Elephant Yam,31,30,29
+Jun,Fenugreek Leaves,12,13,12
+Jun,French Beans,74,70,73
+Jun,Garlic,93,88,96
+Jun,Ginger,49,49,48
+Jun,Green Chilli,42,38,42
+Jun,Green Peas,102,104,102
+Jun,Ivy Gourd,31,31,32
+Jun,Ladies Finger,41,43,43
+Jun,Lemon (Lime),69,69,70
+Jun,Mango Raw,31,35,30
+Jun,Mint Leaves,6,6,6
+Jun,Mushroom,97,98,99
+Jun,Mustard Leaves,20,18,20
+Jun,Onion Big,25,27,25
+Jun,Onion Green,49,48,49
+Jun,Onion Small,38,40,37
+Jun,Potato,35,34,35
+Jun,Pumpkin,30,29,29
+Jun,Radish,32,31,29
+Jun,Raw Banana (Plantain),9,8,8
+Jun,Ridge Gourd,32,32,29
+Jun,Shallot (Pearl Onion),39,40,41
+Jun,Snake Gourd,28,29,27
+Jun,Sorrel Leaves,13,15,14
+Jun,Spinach,15,14,16
+Jun,Sweet Potato,46,47,47
+Jun,Tomato,53,48,56
+Jul,Amaranth Leaves,10,11,10
+Jul,Amla,74,65,63
+Jul,Ash gourd,26,27,27
+Jul,Baby Corn,63,62,61
+Jul,Banana Flower,19,18,19
+Jul,Beetroot,50,53,51
+Jul,Bitter Gourd,40,41,42
+Jul,Bottle Gourd,32,32,31
+Jul,Brinjal,37,35,37
+Jul,Brinjal (Big),33,35,34
+Jul,Broad Beans,60,57,60
+Jul,Butter Beans,92,91,91
+Jul,Cabbage,30,28,28
+Jul,Capsicum,40,40,40
+Jul,Carrot,56,56,53
+Jul,Cauliflower,32,31,31
+Jul,Cluster beans,43,41,40
+Jul,Coconut,41,42,41
+Jul,Colocasia,32,30,31
+Jul,Colocasia Leaves,17,14,15
+Jul,Coriander Leaves,13,12,12
+Jul,Corn,31,30,30
+Jul,Cucumber,26,26,23
+Jul,Curry Leaves,37,34,34
+Jul,Dill Leaves,16,16,14
+Jul,Drumsticks,50,45,47
+Jul,Elephant Yam,32,32,32
+Jul,Fenugreek Leaves,11,11,10
+Jul,French Beans,70,71,70
+Jul,Garlic,87,87,87
+Jul,Ginger,48,49,50
+Jul,Green Chilli,40,40,39
+Jul,Green Peas,96,96,96
+Jul,Ivy Gourd,30,29,29
+Jul,Ladies Finger,42,42,41
+Jul,Lemon (Lime),68,69,70
+Jul,Mango Raw,62,64,60
+Jul,Mint Leaves,6,6,6
+Jul,Mushroom,96,102,99
+Jul,Mustard Leaves,18,18,18
+Jul,Onion Big,26,27,26
+Jul,Onion Green,48,46,47
+Jul,Onion Small,40,42,41
+Jul,Potato,34,34,34
+Jul,Pumpkin,29,27,30
+Jul,Radish,32,32,32
+Jul,Raw Banana (Plantain),9,9,8
+Jul,Ridge Gourd,29,33,31
+Jul,Shallot (Pearl Onion),40,41,41
+Jul,Snake Gourd,31,33,31
+Jul,Sorrel Leaves,14,15,14
+Jul,Spinach,14,15,16
+Jul,Sweet Potato,47,46,46
+Jul,Tomato,23,21,23
+Aug,Amaranth Leaves,10,11,10
+Aug,Amla,70,66,63
+Aug,Ash gourd,31,30,30
+Aug,Baby Corn,69,73,67
+Aug,Banana Flower,18,20,19
+Aug,Beetroot,48,44,48
+Aug,Bitter Gourd,44,43,44
+Aug,Bottle Gourd,33,33,35
+Aug,Brinjal,36,36,36
+Aug,Brinjal (Big),33,33,34
+Aug,Broad Beans,48,48,46
+Aug,Butter Beans,90,90,90
+Aug,Cabbage,27,29,28
+Aug,Capsicum,39,40,40
+Aug,Carrot,54,54,58
+Aug,Cauliflower,32,32,32
+Aug,Cluster beans,39,41,40
+Aug,Coconut,41,40,41
+Aug,Colocasia,30,30,29
+Aug,Colocasia Leaves,14,18,16
+Aug,Coriander Leaves,13,12,11
+Aug,Corn,31,30,29
+Aug,Cucumber,29,29,29
+Aug,Curry Leaves,33,34,31
+Aug,Dill Leaves,12,12,12
+Aug,Drumsticks,45,43,45
+Aug,Elephant Yam,32,32,32
+Aug,Fenugreek Leaves,9,10,10
+Aug,French Beans,71,69,71
+Aug,Garlic,88,88,88
+Aug,Ginger,48,47,49
+Aug,Green Chilli,45,43,46
+Aug,Green Peas,91,91,88
+Aug,Ivy Gourd,31,30,30
+Aug,Ladies Finger,38,35,38
+Aug,Lemon (Lime),71,69,69
+Aug,Mango Raw,106,105,103
+Aug,Mint Leaves,6,6,6
+Aug,Mushroom,98,99,100
+Aug,Mustard Leaves,18,18,17
+Aug,Onion Big,30,30,29
+Aug,Onion Green,49,46,49
+Aug,Onion Small,40,40,39
+Aug,Potato,37,41,40
+Aug,Pumpkin,29,28,28
+Aug,Radish,34,33,33
+Aug,Raw Banana (Plantain),11,11,11
+Aug,Ridge Gourd,35,34,34
+Aug,Shallot (Pearl Onion),38,41,39
+Aug,Snake Gourd,34,34,33
+Aug,Sorrel Leaves,14,14,14
+Aug,Spinach,15,15,16
+Aug,Sweet Potato,45,45,46
+Aug,Tomato,23,24,22
+Sep,Amaranth Leaves,10,11,10
+Sep,Amla,68,64,62
+Sep,Ash gourd,29,30,31
+Sep,Baby Corn,84,84,83
+Sep,Banana Flower,18,19,18
+Sep,Beetroot,44,42,43
+Sep,Bitter Gourd,40,38,41
+Sep,Bottle Gourd,30,29,28
+Sep,Brinjal,28,28,27
+Sep,Brinjal (Big),33,32,32
+Sep,Broad Beans,41,42,42
+Sep,Butter Beans,93,91,92
+Sep,Cabbage,27,27,27
+Sep,Capsicum,46,49,46
+Sep,Carrot,75,76,72
+Sep,Cauliflower,47,48,46
+Sep,Cluster beans,81,86,74
+Sep,Coconut,39,39,40
+Sep,Colocasia,30,30,31
+Sep,Colocasia Leaves,15,17,14
+Sep,Coriander Leaves,10,10,11
+Sep,Corn,32,31,29
+Sep,Cucumber,28,28,27
+Sep,Curry Leaves,33,33,32
+Sep,Dill Leaves,15,13,15
+Sep,Drumsticks,84,92,82
+Sep,Elephant Yam,32,32,33
+Sep,Fenugreek Leaves,10,10,9
+Sep,French Beans,68,71,68
+Sep,Garlic,66,63,69
+Sep,Ginger,50,50,49
+Sep,Green Chilli,46,44,44
+Sep,Green Peas,96,97,94
+Sep,Ivy Gourd,33,30,30
+Sep,Ladies Finger,25,26,26
+Sep,Lemon (Lime),72,71,68
+Sep,Mango Raw,120,107,114
+Sep,Mint Leaves,6,7,6
+Sep,Mushroom,102,98,95
+Sep,Mustard Leaves,18,18,18
+Sep,Onion Big,28,28,28
+Sep,Onion Green,49,47,48
+Sep,Onion Small,37,36,36
+Sep,Potato,40,40,38
+Sep,Pumpkin,28,32,30
+Sep,Radish,31,33,31
+Sep,Raw Banana (Plantain),10,12,12
+Sep,Ridge Gourd,36,37,33
+Sep,Shallot (Pearl Onion),41,41,41
+Sep,Snake Gourd,34,37,35
+Sep,Sorrel Leaves,14,13,13
+Sep,Spinach,14,14,14
+Sep,Sweet Potato,46,46,45
+Sep,Tomato,47,48,45
+Oct,Amaranth Leaves,11,11,10
+Oct,Amla,71,69,68
+Oct,Ash gourd,31,31,30
+Oct,Baby Corn,84,85,84
+Oct,Banana Flower,18,17,18
+Oct,Beetroot,48,49,48
+Oct,Bitter Gourd,40,40,40
+Oct,Bottle Gourd,29,30,29
+Oct,Brinjal,26,25,26
+Oct,Brinjal (Big),32,31,31
+Oct,Broad Beans,43,46,46
+Oct,Butter Beans,91,93,95
+Oct,Cabbage,32,32,32
+Oct,Capsicum,50,50,50
+Oct,Carrot,73,75,77
+Oct,Cauliflower,51,51,51
+Oct,Cluster beans,93,91,94
+Oct,Coconut,39,39,38
+Oct,Colocasia,31,30,29
+Oct,Colocasia Leaves,16,15,17
+Oct,Coriander Leaves,10,11,12
+Oct,Corn,30,30,29
+Oct,Cucumber,29,28,28
+Oct,Curry Leaves,34,34,33
+Oct,Dill Leaves,15,13,13
+Oct,Drumsticks,103,118,105
+Oct,Elephant Yam,33,33,33
+Oct,Fenugreek Leaves,10,10,10
+Oct,French Beans,79,76,81
+Oct,Garlic,55,55,54
+Oct,Ginger,52,49,51
+Oct,Green Chilli,45,45,44
+Oct,Green Peas,93,98,98
+Oct,Ivy Gourd,30,30,30
+Oct,Ladies Finger,26,27,26
+Oct,Lemon (Lime),69,69,67
+Oct,Mango Raw,119,114,122
+Oct,Mint Leaves,8,7,8
+Oct,Mushroom,103,102,98
+Oct,Mustard Leaves,18,19,20
+Oct,Onion Big,28,30,27
+Oct,Onion Green,50,50,49
+Oct,Onion Small,36,38,37
+Oct,Potato,39,39,38
+Oct,Pumpkin,31,33,32
+Oct,Radish,39,37,38
+Oct,Raw Banana (Plantain),12,12,13
+Oct,Ridge Gourd,40,39,40
+Oct,Shallot (Pearl Onion),39,38,38
+Oct,Snake Gourd,41,41,40
+Oct,Sorrel Leaves,14,14,14
+Oct,Spinach,14,16,15
+Oct,Sweet Potato,46,45,46
+Oct,Tomato,41,41,42
+Nov,Amaranth Leaves,11,11,11
+Nov,Amla,74,69,65
+Nov,Ash gourd,29,31,29
+Nov,Baby Corn,87,84,85
+Nov,Banana Flower,18,18,18
+Nov,Beetroot,46,45,47
+Nov,Bitter Gourd,36,37,36
+Nov,Bottle Gourd,31,30,30
+Nov,Brinjal,27,24,27
+Nov,Brinjal (Big),31,31,32
+Nov,Broad Beans,43,45,46
+Nov,Butter Beans,92,94,94
+Nov,Cabbage,33,31,31
+Nov,Capsicum,49,50,50
+Nov,Carrot,57,56,60
+Nov,Cauliflower,39,39,44
+Nov,Cluster beans,71,66,75
+Nov,Coconut,38,37,37
+Nov,Colocasia,29,30,31
+Nov,Colocasia Leaves,17,15,14
+Nov,Coriander Leaves,13,12,10
+Nov,Corn,31,29,29
+Nov,Cucumber,27,26,26
+Nov,Curry Leaves,34,33,34
+Nov,Dill Leaves,15,14,15
+Nov,Drumsticks,112,110,116
+Nov,Elephant Yam,32,33,33
+Nov,Fenugreek Leaves,10,11,9
+Nov,French Beans,47,44,55
+Nov,Garlic,51,53,54
+Nov,Ginger,49,49,51
+Nov,Green Chilli,44,44,44
+Nov,Green Peas,97,96,97
+Nov,Ivy Gourd,29,31,30
+Nov,Ladies Finger,32,31,30
+Nov,Lemon (Lime),68,69,68
+Nov,Mango Raw,114,110,111
+Nov,Mint Leaves,8,7,7
+Nov,Mushroom,99,99,103
+Nov,Mustard Leaves,20,18,17
+Nov,Onion Big,42,41,43
+Nov,Onion Green,47,50,48
+Nov,Onion Small,80,85,73
+Nov,Potato,42,41,41
+Nov,Pumpkin,32,33,32
+Nov,Radish,33,32,34
+Nov,Raw Banana (Plantain),10,10,11
+Nov,Ridge Gourd,36,35,37
+Nov,Shallot (Pearl Onion),41,40,39
